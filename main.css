@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #0a0a0a;
+    color: #fffdfd;
+  }
+  
+  h1 {
+    color: #eec3c3;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0048ff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #FF8000;
+  }
+  
+  a {
+    color: #FFA500;
+  }
+  
+  a:hover {
+    color: #FF8000;
+  }
+  
